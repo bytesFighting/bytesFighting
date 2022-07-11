@@ -30,12 +30,13 @@ Here are some ideas to get you started:
 * 转转数据采集
 
 
-####  - 📫 联系本人 ...
+####  - 📫 联系本人 Contact... 
 
 * 购买软件、收购项目，可联系本人邮箱或添加QQ
+* If you want to buy programs or projects, contact me with the following email or QQ
 
 * Email: 26010455@qq.com
 
-* QQ: 26010455（添加请注明来意 否则不予通过）
+* QQ: 26010455（添加请注明来意 否则不予通过, Please note with the purpose of your contacting）
 
 
