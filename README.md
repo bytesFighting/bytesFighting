@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ####  - 📫 联系本人 Contact... 
 
-* 购买软件、收购项目，可联系本人邮箱或添加QQ (If you want to buy programs or projects, contact me with the following email or QQ)
+* 购买软件、收购项目，可联系本人邮箱或添加QQ （ If you want to buy programs or projects, contact me with the following email or QQ ）
 
 
 * Email: 26010455@qq.com
