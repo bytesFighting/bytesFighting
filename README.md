@@ -26,13 +26,14 @@ Here are some ideas to get you started:
  
 ####  - 🌱 核心技术研究方向 ...
 
-* 淘宝系采集（目前有淘宝、闲鱼成品自动化软件可直接使用，或定制）
+* 淘宝系采集（目前有淘宝、闲鱼等成品自动化软件可直接使用，或定制）
 * 转转数据采集
 
 
 ####  - 📫 联系本人 Contact... 
 
-* 购买软件、收购项目，可联系本人邮箱或添加QQ （ If you want to buy programs or projects, contact me with the following email or QQ ）
+* 购买软件、收购项目，可联系本人邮箱或添加QQ 
+If you want to buy programs or projects, contact me with the following email or QQ
 
 
 * Email: 26010455@qq.com
