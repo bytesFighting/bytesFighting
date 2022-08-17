@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 * Email: 26010455@qq.com
 
 
-* QQ: 26010455（添加请注明来意 否则不予通过, Please note with the purpose of your contacting）
+* QQ: 26010455（添加请注明来意 否则不予通过, Please note the purpose of your contacting）
+
+![](demo/demo01.png)
 
 
