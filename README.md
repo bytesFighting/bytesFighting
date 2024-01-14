@@ -56,4 +56,5 @@ Here are some ideas to get you started:
 6. [网页淘宝数据抓取](https://github.com/FightingForWhat/TaobaoSpider) [手淘研究学习1](https://github.com/FightingForWhat/TaoBao-taobao_spider) [手淘研究学习2](https://github.com/FightingForWhat/TaoBao_Spider)
 
 7. [AI STOCK A股量化交易工具 测试](https://github.com/FightingForWhat/AI_STOCK)
+8. [探寻闲鱼SellerId加解密算法](https://github.com/FightingForWhat/IdleFish_SellerId)
 
